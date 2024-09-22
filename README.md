@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Som Patrick
 ===================================================================================================================================
 
-Data Analyst and Data Enthusiast
+Computer Science|Data Science|Machine Learning Engineering|Precognosis: AI for Healthcare
 --------------------------------
 
-I'm a data enthusiast on an exciting learning journey. My fascination lies in the world of data analysis, where I'm constantly exploring and expanding my skills. I'm passionate about Data Science, Machine Learning, and Artificial Intelligence, and I'm dedicated to mastering these fields. While I may not have specialized just yet, I'm deeply curious about the intersection of data and the dynamic realms of Fintech, Paytech, and E-commerce. I've also completed the ALX-T Data Analyst Nanodegree program, which has provided me with a strong foundation in data analysis. Beyond my current interests, I'm actively exploring the intricacies of data engineering, seeking to broaden my knowledge and skill set. Let's connect and share insights on our data-driven journeys.
+I'm a passionate computer science student and data enthusiast on an exciting journey to master Data Science, Machine Learning, and Artificial Intelligence. My interests span across Fintech, Paytech, E-commerce, and AI for healthcare, where I'm currently working on an AI-powered healthcare project called Precognosis. I hold an ALX-T Data Analyst Nanodegree, which has provided me with a strong foundation in data analysis. While I’m still exploring my specialization, I’m actively expanding my skills in data engineering and AI to further broaden my expertise. Let’s connect and share insights on our data-driven paths!
 
 *   🌍  I'm based in Ghana
 *   ✉️  You can contact me at [somsompatrick17@gmail.com](mailto:somsompatrick17@gmail.com)
